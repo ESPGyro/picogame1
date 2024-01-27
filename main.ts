@@ -10,7 +10,9 @@ namespace Picogame {
         i2cbuf[1] = 255
         pins.i2cWriteBuffer(PG_ADDR, i2cbuf)
         let readbuf = pins.i2cReadBuffer(PG_ADDR, 1)
+	if (readbuf[0] < 500) {
         return readbuf[0]
+	}
     }
     //% blockId=sensor_write block="write value |%v"
     //% v.min=0 v.max=200
