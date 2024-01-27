@@ -1,5 +1,5 @@
 
-> 在 [https://suhulhu.github.io/bitracer/](https://suhulhu.github.io/bitracer/) 打開此頁面
+> 在 [https://github.com/ESPGyro/picogame](https://github.com/ESPGyro/picogame)打開此頁面
 
 ## 作為擴充功能使用
 
