@@ -1,5 +1,5 @@
 const PG_ADDR = 0x66
-//% color="#AA278D" icon="\uf1b9" weight=50
+//% color="#AA278D" icon="\uf2dc" weight=50
 namespace Picogame {
     //% block
     //% blockId=sensor_read block="read sensor |%address"
