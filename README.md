@@ -1,14 +1,8 @@
 
-> 在 [https://github.com/ESPGyro/picogame](https://github.com/ESPGyro/picogame)打開此頁面
+> 在 Makecode arcade 擴充 [https://github.com/ESPGyro/picogame](https://github.com/ESPGyro/picogame)打開此頁面
 
-## 作為擴充功能使用
-
-可以在 MakeCode 中將此儲存庫新增為**擴充功能**。
-
-* 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 按一下**新專案**
-* 按一下工具齒輪選單下的**擴充功能**
-* 搜索 **https://github.com/suhulhu/bitracer** 並匯出
+* 在工具選單下的**擴充功能**
+* 搜索 https://github.com/ESPGyro/picogame
 
 ## 編輯此專案 ![建立狀態徽章](https://github.com/suhulhu/bitracer/workflows/MakeCode/badge.svg)
 
